@@ -1,9 +1,9 @@
 
-# Twitter Clone Project 🐦
+# Twitter Clone Project (Server) 🐦
 
 
 
-Twitter clone project built with Node.js, Express.js, TypeScript, GraphQL, PostgreSQL, Supabase, Prisma ORM, and Redis for caching. Deployed on an AWS EC2 instance. 🚀
+Twitter clone project's Server built with Node.js, Express.js, TypeScript, GraphQL, PostgreSQL, Supabase, Prisma ORM, and Redis for caching. Deployed on an AWS EC2 instance. 🚀
 
 ## Table of Contents
 
